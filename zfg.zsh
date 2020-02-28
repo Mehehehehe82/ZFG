@@ -1,0 +1,2 @@
+vim ~/.zshrc;
+exec $SHELL
